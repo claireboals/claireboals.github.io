@@ -6,6 +6,7 @@ body {
 h1 {
         color: #7c7979;
         text-align: center;
+        font-size: 35px;
 }
 
 .navbar {
@@ -24,4 +25,14 @@ img {
         display: block;
         margin-left: auto;
         margin-right: auto;
+}
+
+.rblock {
+        color: #595659;
+}
+
+h2 {
+        font-size: 25px;
+        font-style: italic;
+        font-family: sans-serif;
 }
