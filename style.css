@@ -1,0 +1,27 @@
+body {
+        background-color: #ffb5f6;
+        font-family: monospace;
+}
+
+h1 {
+        color: #7c7979;
+        text-align: center;
+}
+
+.navbar {
+        text-align: center;
+        font-weight: bold;
+        font-size: 15px;
+}
+
+a {
+        color: #fee8ff;
+}
+
+img {
+        align-self: center;
+        height: 500px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+}
